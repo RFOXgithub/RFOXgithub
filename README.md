@@ -38,6 +38,9 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></p>
+
 <div align="center">
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=RFOXgithub&theme=neon" alt="" />
 </div>
