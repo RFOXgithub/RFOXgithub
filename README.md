@@ -10,7 +10,7 @@
 
 ### WHOAMI
 
-**Rival Septian Jeflin Manti** — software developer yang suka membangun produk web dari nol sampai rilis. Fokus di frontend modern, desain yang rapi, dan hasil yang benar-benar dipakai orang.
+**Rival Septian Jeflin Manti** — software developer.
 
 <div align="center">
 <img src="https://www.gitskins.com/api/readme-reference/divider?username=RFOXgithub&theme=neon" alt="" />
